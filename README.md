@@ -3,7 +3,7 @@ Salesforce development (Force.com, Apex, Visualforce, JavaScript, Heroku, etc.) 
 
 ## Courses and Tutorials
 ### [Trailhead](https://developer.salesforce.com/trailhead)
-Salesforce interactive tutorials for Admins and Developers at all levels.
+Salesforce interactive tutorials for Administrators and Developers at all levels.
 * **By**: _Salesforce_
 * **Level**: Beginner to Advanced
 
