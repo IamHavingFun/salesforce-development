@@ -1,4 +1,4 @@
-# salesforce-development
+# Salesforce Development
 Salesforce development (Force.com, Apex, Visualforce, JavaScript, Heroku, etc.) links, demos and some other useful stuff.
 
 ## Courses and Tutorials
